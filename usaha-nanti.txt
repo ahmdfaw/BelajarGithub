@@ -8,3 +8,5 @@ RENCANA USAHA
 - Toko baju
 - Toko Celana
 - Toko Sepatu
+- Toko Perabotan
+- Toko pancing
