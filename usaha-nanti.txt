@@ -5,5 +5,6 @@ RENCANA USAHA
 - Restoran
 - Sawah
 - Tempat biliard
-- Toko Air
-- Toko kaos
+- Toko baju
+- Toko Celana
+- Toko Sepatu
